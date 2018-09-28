@@ -1,0 +1,41 @@
+{
+  "name": "hrs-twilio-client-phonegap-plugin",
+  "version": "1.1.1",
+  "description": "Use the Twilio Client SDK for iOS or Android VoIP support with Cordova/PhoneGap.",
+  "cordova": {
+    "id": "hrs-twilio-client-phonegap-plugin",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bpowell15/hrs-cordova-plugin-twilioclient.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=6.4.0"
+    },
+    {
+      "name": "cordova-android",
+      "version": ">=6.0.0"
+    },
+    {
+      "name": "cordova-ios",
+      "version": ">=4.3.0"
+    }
+  ],
+  "author": "Stevie Graham/Lyle Pratt/Jeff Linwood/Brice Powell",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/bpowell15/hrs-cordova-plugin-twilioclient/issues"
+  },
+  "homepage": "https://github.com/bpowell15/hrs-cordova-plugin-twilioclient#readme"
+}
